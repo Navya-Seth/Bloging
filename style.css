@@ -42,6 +42,8 @@ input
     border-radius: 20px;
     margin-bottom: 15px;
     width: 100%;
+    display: inline-block;
+    
 }
 
 .movie_head i{
@@ -63,4 +65,22 @@ margin-top: 30px;
 
 .environment_li p{
     margin-top: 10px;
+}
+
+.book{
+    cursor:pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+    
+}
+.img_modal{
+    display: inline-block;
+}
+
+.header_entrepreneur{
+    line-height: 2;
 }
